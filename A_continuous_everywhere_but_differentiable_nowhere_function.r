@@ -13,3 +13,4 @@ plt + geom_line( col = "red4" ) +
 	theme(
 	      plot.title = element_text( color = "seagreen" , face = "italic" , hjust = 0.5 )
 	     )
+	    
