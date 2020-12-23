@@ -17,6 +17,6 @@ Another motive of this repo is to practise plotting in R, using ggplot2, which I
 ### 3. [Continuity](https://github.com/ArkaB-DS/Real-Analysis/blob/main/3.Continuity.ipynb)
   *   Graph of xsin(1/x) - discontinuous at 0
   *   Bisection Method
-### [4. Differentiation](https://github.com/ArkaB-DS/Real-Analysis/blob/main/4.Differentiation.ipynb)
+### 4. [Differentiation](https://github.com/ArkaB-DS/Real-Analysis/blob/main/4.Differentiation.ipynb)
   *   Graph of an Everywhere Continuous but Nowhere Differentiable Function - the Weirstrauss's Function
   *   Newton Raphson Method
